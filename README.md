@@ -1,2 +1,3 @@
-# goit-js-hw-05
-Iterative methods of arrays.
+# goit-js-hw-06
+Object-oriented programming.
+Klasses.
